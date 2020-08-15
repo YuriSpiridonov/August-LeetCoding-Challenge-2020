@@ -22,3 +22,8 @@ Make Algorithms Great Again!
 |119.|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](/Week%202/119.PascalsTriangleII.py)|Easy|
 |1286.|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](/Week%202/1286.IteratorforCombination.py)|Medium|
 |409.|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Python](/Week%202/409.LongestPalindrome.py)|Easy|
+
+## Week 3
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|435.|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](/Week%203/435.Non-overlappingIntervals.py)|Medium|
