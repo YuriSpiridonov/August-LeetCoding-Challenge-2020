@@ -28,3 +28,4 @@ Make Algorithms Great Again!
 | ----: | --- | --- | --- |
 |435.|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|[Python](/Week%203/435.Non-overlappingIntervals.py)|Medium|
 |123.|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Python](/Week%203/123.BestTimetoBuyandSellStockIII.py)|Hard|
+|1103.|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Python](/Week%203/1103.DistributeCandiestoPeople.py)|Easy|
