@@ -31,3 +31,4 @@ Make Algorithms Great Again!
 |1103.|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[Python](/Week%203/1103.DistributeCandiestoPeople.py)|Easy|
 |967.|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[Python](/Week%203/967.NumbersWithSameConsecutiveDifferences.py)|Medium|
 |824.|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](/Week%203/824.GoatLatin.py)|Easy|
+|143.|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Python](/Week%203/143.ReorderList.py)|Medium|
