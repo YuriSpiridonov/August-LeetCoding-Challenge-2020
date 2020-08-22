@@ -33,3 +33,8 @@ Make Algorithms Great Again!
 |824.|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](/Week%203/824.GoatLatin.py)|Easy|
 |143.|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Python](/Week%203/143.ReorderList.py)|Medium|
 |905.|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](/Week%203/905.SortArrayByParity.py)|Easy|
+
+## Week 4
+|№|Title|Solution|Difficulty|
+| ----: | --- | --- | --- |
+|497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Week%204/497.RandomPointinNon-overlappingRectangles.py)|Medium|
