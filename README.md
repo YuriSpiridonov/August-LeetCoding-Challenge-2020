@@ -1,5 +1,16 @@
-# August-LeetCoding-Challenge-2020
+# August LeetCoding Challenge 2020
 Make Algorithms Great Again!
+
+## Introduction
+In this repository provided my Python solutions of August LeetCoding Challenge problems. 
+- I highly recommend you to try and solve problems yourself before look at the solutions here.
+- Solutions and approaches may be not optimal.
+- All Solutions here are in Python 3.
+
+## Notes
+For these problems I was googling approaches:
+* 123\. Best Time to Buy and Sell Stock III (Hard) - Problem is really hard, req. strong understanding of Dynamic Programming. My own solution was not optimal. I was struggle with second buy/sell operation.
+* 497\. Random Point in Non-overlapping Rectangles (Medium) - Feels more like hard problem. Struggled with bisect. Solved after googled `bisect_right`.
 
 ## Week 1
 |№|Title|Solution|Difficulty|
@@ -38,3 +49,4 @@ Make Algorithms Great Again!
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Week%204/497.RandomPointinNon-overlappingRectangles.py)|Medium|
+|1032.|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](/Week%204/1032.StreamofCharacters.py)|Hard|
