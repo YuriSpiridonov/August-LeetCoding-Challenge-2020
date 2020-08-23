@@ -9,11 +9,11 @@ In this repository provided my Python solutions of August LeetCoding Challenge p
 
 ## Notes
 For the following problems I was googling approaches:
-* 123\. Best Time to Buy and Sell Stock III (Hard) - Problem is really hard, req. strong understanding of Dynamic Programming. My own solution was not optimal. I was struggle with second buy/sell operation.
-* 497\. Random Point in Non-overlapping Rectangles (Medium) - Feels more like hard problem. Struggled with bisect. Solved after googled `bisect_right`.
+* <b>123\. <ins>Best Time to Buy and Sell Stock III</ins> (Hard)</b> - Problem is really hard, req. strong understanding of Dynamic Programming. My own solution was not optimal. I was struggle with second buy/sell operation.
+* <b>497\. <ins>Random Point in Non-overlapping Rectangles</ins> (Medium)</b>  - Feels more like hard problem. Struggled with bisect. Solved after googled `bisect_right`.
 
 Problem's question not clear*:
-* 1032\. Stream of Characters (Hard)  - In `query(letter)` function every new query appends to the previous queries. Requests starts from latest and go to oldest.
+* <b>1032\. <ins>Stream of Characters</ins> (Hard)</b>  - In `query(letter)` function every new query appends to the previous queries. Requests starts from latest and go to oldest.
 
 _*Following problem's questions wasn't clear for me._
 
