@@ -8,9 +8,14 @@ In this repository provided my Python solutions of August LeetCoding Challenge p
 - All Solutions here are in Python 3.
 
 ## Notes
-For these problems I was googling approaches:
+For the following problems I was googling approaches:
 * 123\. Best Time to Buy and Sell Stock III (Hard) - Problem is really hard, req. strong understanding of Dynamic Programming. My own solution was not optimal. I was struggle with second buy/sell operation.
 * 497\. Random Point in Non-overlapping Rectangles (Medium) - Feels more like hard problem. Struggled with bisect. Solved after googled `bisect_right`.
+
+Problem's question not clear*:
+* 1032\. Stream of Characters (Hard)  - In `query(letter)` function every new query appends to the previous queries. Requests starts from latest and go to oldest.
+
+_*Following problem's questions wasn't clear for me._
 
 ## Week 1
 |№|Title|Solution|Difficulty|
