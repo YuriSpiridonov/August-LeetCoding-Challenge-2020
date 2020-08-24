@@ -13,7 +13,7 @@ For the following problems I was googling approaches:
 * <b>497\. <ins>Random Point in Non-overlapping Rectangles</ins> (Medium)</b>  - Feels more like hard problem. Struggled with bisect. Solved after googled `bisect_right`.
 
 Problem's question not clear*:
-* <b>1032\. <ins>Stream of Characters</ins> (Hard)</b>  - In `query(letter)` function every new query appends to the previous queries. Requests starts from latest and go to oldest.
+* <b>1032\. <ins>Stream of Characters</ins> (Hard)</b>  - In `query()` function every new query appends to the previous queries. Requests starts from latest and go to oldest.
 
 _*Following problem's questions wasn't clear for me._
 
@@ -55,3 +55,4 @@ _*Following problem's questions wasn't clear for me._
 | ----: | --- | --- | --- |
 |497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Week%204/497.RandomPointinNon-overlappingRectangles.py)|Medium|
 |1032.|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](/Week%204/1032.StreamofCharacters.py)|Hard|
+|404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Week%204/404.SumofLeftLeaves.py)|Easy|
