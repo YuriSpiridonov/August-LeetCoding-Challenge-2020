@@ -10,7 +10,9 @@ In this repository provided my Python solutions of August LeetCoding Challenge p
 ## Notes
 For the following problems I was googling approaches:
 * <b>123\. <ins>Best Time to Buy and Sell Stock III</ins> (Hard)</b> - Problem is really hard, req. strong understanding of Dynamic Programming. My own solution was not optimal. I was struggle with second buy/sell operation.
-* <b>497\. <ins>Random Point in Non-overlapping Rectangles</ins> (Medium)</b>  - Feels more like hard problem. Struggled with bisect. Solved after googled `bisect_right`.
+* <b>497\. <ins>Random Point in Non-overlapping Rectangles</ins> (Medium)</b> - Feels more like hard problem. Struggled with bisect. Solved after googled `bisect_right`.
+* <b>983\. <ins>Minimum Cost For Tickets</ins> (Medium)</b> - This problem was super hard for me. I'll be honest, after several failed attempts I checked the solution. My approach was way far from correct.
+
 
 Problem's question not clear*:
 * <b>1032\. <ins>Stream of Characters</ins> (Hard)</b>  - In `query()` function every new query appends to the previous queries. Requests starts from latest and go to oldest.
@@ -56,3 +58,4 @@ _*Following problem's questions wasn't clear for me._
 |497.|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)|[Python](/Week%204/497.RandomPointinNon-overlappingRectangles.py)|Medium|
 |1032.|[Stream of Characters](https://leetcode.com/problems/stream-of-characters/)|[Python](/Week%204/1032.StreamofCharacters.py)|Hard|
 |404.|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Python](/Week%204/404.SumofLeftLeaves.py)|Easy|
+|983.|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Python](/Week%204/983.MinimumCostForTickets.py)|Medium|
