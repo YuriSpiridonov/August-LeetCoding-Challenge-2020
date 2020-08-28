@@ -61,3 +61,4 @@ _*Following problem's questions wasn't clear for me._
 |983.|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|[Python](/Week%204/983.MinimumCostForTickets.py)|Medium|
 |412.|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](/Week%204/412.FizzBuzz.py)|Easy|
 |436.|[Find Right Interval](https://leetcode.com/problems/find-right-interval/)|[Python](/Week%204/436.FindRightInterval.py)|Medium|
+|470.|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[Python](/Week%204/470.ImplementRand10()UsingRand7().py)|Medium|
