@@ -12,6 +12,7 @@ For the following problems I was googling approaches:
 * <b>123\. <ins>Best Time to Buy and Sell Stock III</ins> (Hard)</b> - Problem is really hard, req. strong understanding of Dynamic Programming. My own solution was not optimal. I was struggle with second buy/sell operation.
 * <b>497\. <ins>Random Point in Non-overlapping Rectangles</ins> (Medium)</b> - Feels more like hard problem. Struggled with bisect. Solved after googled `bisect_right`.
 * <b>983\. <ins>Minimum Cost For Tickets</ins> (Medium)</b> - This problem was super hard for me. I'll be honest, after several failed attempts I checked the solution. My approach was way far from correct.
+* <b>952\. <ins>Largest Component Size by Common Factor</ins> (Hard)</b> - My approach was not far for correct, but I struggled with union find, so I googled. As conclusion, I think I couldn't finish it by myself.
 
 
 Problem's question not clear*:
@@ -67,3 +68,4 @@ _*Following problem's questions wasn't clear for me._
 |№|Title|Solution|Difficulty|
 | ----: | --- | --- | --- |
 |969.|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Python](/Week%205/969.PancakeSorting.py)|Medium|
+|952.|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Python](/Week%205/952.LargestComponentSizebyCommonFactor.py)|Hard|
