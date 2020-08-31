@@ -69,3 +69,7 @@ _*Following problem's questions wasn't clear for me._
 | ----: | --- | --- | --- |
 |969.|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[Python](/Week%205/969.PancakeSorting.py)|Medium|
 |952.|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[Python](/Week%205/952.LargestComponentSizebyCommonFactor.py)|Hard|
+|450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Week%205/450.DeleteNodeinaBST.py)|Medium|
+
+## License
+Licensed under the [MIT License](/LICENSE).
