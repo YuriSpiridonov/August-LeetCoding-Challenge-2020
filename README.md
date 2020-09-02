@@ -72,4 +72,4 @@ _*Following problem's questions wasn't clear for me._
 |450.|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[Python](/Week%205/450.DeleteNodeinaBST.py)|Medium|
 
 ## License
-Licensed under the [MIT License](/LICENSE).
+The code is open-source and licensed under the [MIT License](/LICENSE).
